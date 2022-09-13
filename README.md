@@ -1,4 +1,4 @@
-#RECURSOS
+# RECURSOS
 
 ## Para aprender nuevos lenguajes de cero
 
@@ -8,7 +8,7 @@ En general W3Schools tiene varios tutoriales para diferentes lenguajes con ejemp
 
 Una vez que ya sabemos programar, esta página se me ha hecho útil para aprender/recordar la sintaxis de los lenguajes:
 
-- [https://gobyexample.com/](https://gobyexample.com/)
+- [https://learnxinyminutes.com/](https://learnxinyminutes.com/)
 
 Hay otros sitios oficiales de los lenguajes con tutoriales, estos son los de los lenguajes que han mencionado que van a usar:
 
